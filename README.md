@@ -6,37 +6,37 @@ Welcome to the Tic Tac Toe game! This is a simple web-based implementation of th
 
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Known Issues & Future Enhancements](#known-issues-future-enhancements)
+- [Known Issues & Future Enhancements](#known-issues--future-enhancements)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## Features {#features}
+## Features
 
 - Player vs. Player (PvP) mode.
 - Player vs. AI (PvA) mode with adjustable difficulty.
 - Interactive and responsive user interface.
 
-## How to Play {#how-to-play}
+## How to Play
 
 1. Open [this](your-hosted-project-link) in your web browser.
 2. Choose your preferred game mode (Player vs. Player or Player vs. AI).
 3. Follow the on-screen instructions to set up the game.
 4. Enjoy playing Tic Tac Toe!
 
-## Known Issues & Future Enhancements {#known-issues-future-enhancements}
+## Known Issues & Future Enhancements
 
 ### Known Issues
 
 - The AI might make suboptimal moves in certain situations.
 - Responsive design may need improvement on smaller screens.
 
-### Future Enhancements {#future-enhancements}
+### Future Enhancements
 
 - Implement a more advanced AI algorithm. 
 - Add support for multiplayer online games.
 - Enhance the user interface with animations and additional styling.
 
-## Contributing {#contributing}
+## Contributing
 
 If you'd like to contribute to the project, please follow these steps:
 Would appreciate if you work on [Future Enhancements](#future-enhancements)
@@ -47,6 +47,6 @@ Would appreciate if you work on [Future Enhancements](#future-enhancements)
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## Contributors {#contributors}
+## Contributors
 
 - [hgjajoo]()
